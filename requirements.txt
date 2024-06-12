@@ -1,0 +1,12 @@
+numpy
+pandas
+chess
+sklearn
+re
+pickle
+pygame
+tkinter
+opearator
+os
+beautifulsoup4
+requests
